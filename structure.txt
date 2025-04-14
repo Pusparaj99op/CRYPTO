@@ -1,4 +1,4 @@
-bnb_future_ai/
+All CRYPTO/
 │
 ├── core/
 │   ├── __init__.py
@@ -621,5 +621,6 @@ bnb_future_ai/
 ├── README.md                      # Project readme
 ├── requirements.txt               # Python dependencies
 ├── setup.py                       # Package setup file
+├── structure.txt                  # Program structure file
 ├── LICENSE                        # License file
 └── CHANGELOG.md                   # Project changelog
