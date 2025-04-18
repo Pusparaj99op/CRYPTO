@@ -131,21 +131,21 @@ graph TD
 ### Setup Process
 
 1. **Clone the repository**:
-   ```bash
+```bash
    git clone https://github.com/Pusparaj99op/ALL-CRYPTO.git
    cd ALL-CRYPTO
-   ```
+```
 
 2. **Create and activate conda environment**:
-   ```bash
+```bash
    conda create -n richie_rich python=3.10
    conda activate richie_rich
-   ```
+```
 
 3. **Install dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
+```bash
+pip install -r requirements.txt
+```
 
 4. **Configure environment**:
    ```bash
