@@ -1,0 +1,124 @@
+I Have To Create A Most Advanced Crypto Trading And Learning AI Model. This AI Model Will Learn And Understand Market Trends And Sentiment And Take Trades Accordingly To Make Maximize Profit. This AI Named as BNB_USDT_2, This AI Will Watch And Learn Simultaneous 24Hr Daily. This AI Will Use 8 Binance APIs To Make millions of Trades In fraction Of Second And To Get Account Details Such As Reading, Holding, Spot, Future, Option and Margin Trading, and transfer, Universal Transfer, withdrawals, symbol whitelist, etc. This AI Model Only Watch One Crypto At A Time Which Will Be BNBUSDT, It Should Be Able To Trade In BNBUSDT's Spot, Future, Option, Margin And All.use Multiple APIs Such As Price, Info, Trading Data, Square, Historical Data Etc (Tell ME Some Websites To Get Historical, Market Data For Free And Paid). Coin Market Cap Developer API To Get All Required Data Related to Crypto, Also To Do Technical Analysis And Fundamental Analysis. Even It Will Use NEWS API to See News Related To Crypto And Make Trades Accordingly to get maximum Profit. This AI Model Is Able To Search Website, Visit Them, signup and Login Them (I Have Provided email and password in .env file Or Ask For if You Cant Find It), It can open External Browser, search , open new tabs, change tabs, close tabs. 
+
+Device Specification:
+My Laptop Specifications To Get Best Outcome, I Have Lenovo laptop, with AMD Ryzen 7 6800H, AMD Radeon graphics, Nvidia GeForce RTX 3050 GPU with 16 Ram. Operating System Ubuntu Pro 24.04.2 LTS, 250GB Storage For Ubuntu Pro ,I Have Downloaded And Installed Visual Studio code, Miniconda, Olama (In Ollama I Have deepseek-r1:8b-llama-distill-q4_K_M We Can Train) And Use It, MongoDB, Also Tell Me If It Required Anything Else too!!, I Have Windows 11 on Dual boot .
+
+I want This AI To Learn Itself, Think, Doubt Clearing, Self Doubt Clearing, Do Reasoning Then Make Trades. This AI Should Be Feed With crypto market and historical Data Every Second, Tell Me IF We Can Use More APIs for Free or paid. It Should Calculate Everting by Itself. This AI Should have Great Knowledge Of Chart pattern, Fibonacci series With This I Want A locally Hosted Webpage to See Things AI Going Though Such As Thinking, reasoning, Calculations, Self Doubt Clearing Etc. On Webpage I Must Be able To See Available balance In Binance (Refresh After Every Trade), Latest News Related To all Crypto (Impact Of News, Predicted Impact Of News, New Crypto, gainer, loser crypto. Add A Feature Of Paper Trading Account Which Contains 1,000,000$ USDT For Testing Purpose Since we can't use real money for testing purpose,(Add A Button On webpage To That I Can Use To Switch Between my Real Account and Demo Account). Use Any Coding Language Which Will be The Best Or We Can Use Multiple Languages. Should Puch Notification For Trade ON My Phone And I Should Also Be Able To Turn Off Notification.
+
+Features- 
+Web Search Enable: I have provide email and password to website searching. should be able to open external browser to search, in background.
+
+Integrated Platform: Combines portfolio management, trading, risk analytics, operations, compliance, and accounting.
+Risk Management: Real-time risk assessment, multi-asset class analytics, stress testing, scenario analysis.
+Compliance and Reporting: Ensures regulatory compliance, supports global disclosure reporting, handles investment accounting.
+Real-Time Monitoring: Offers real-time visibility into exposures and risks.
+Scenario Analysis and Stress Testing: Tests thousands of scenarios daily using Monte Carlo simulations and historical/hypothetical stress tests.
+Portfolio Management: Supports end-to-end investment processes, portfolio construction, asset allocation, "what-if" analysis.
+Data Management: Handles data collection, aggregation, and integration from custodians and market data providers.
+Customization: Provides customizable risk analyses and reporting for different user roles.
+Education and Support: Offers risk-related education, targeted training, access to experts, risk advisory services.
+Outsourcing: Provides outsourcing services for middle office and investment accounting.
+AI and Advanced Analytics: Uses AI for enhanced decision-making, risk prediction, and portfolio optimization.
+Global Consolidation: Minimizes overlapping technology and processes, increases consistency.
+Asset and Liability Modeling: Models various asset classes (e.g., fixed-income securities, whole loans) and liabilities for market/credit risks.
+Derivatives Management: Offers full support for derivatives, including risk, trading, collateral management, and central clearing. For Financial Institutions- Manages all parts of risk and investment process for full, real-time transparency.
+Supports regulatory compliance (e.g., Dodd-Frank central clearing guidelines).
+Provides cashflow projections under various scenarios for income projection and sensitivity analysis.
+Models fixed-income securities, whole loans, and other asset classes.
+Offers full derivatives support, including risk, trading, and collateral management. For Insurers- Multi-Asset Solution: Across fixed income, equities, alternatives, leveraged loans (over 2,000 factors in risk model).
+Analyzes risk across internally/externally managed portfolios relative to ALM benchmarks.
+Supports Solvency II reporting and other regulatory requirements (e.g., S&P, A.M. Best).
+Offers cashflow forecasting for economic capital calculation and regulatory reserve adequacy testing.
+Leverages BlackRock's industry knowledge for trends, constraints, and regulator relationships. For Pensions- Handles data collection and aggregation from custodians and market data providers.
+Delivers analyses in digestible formats for staff and trustees.
+Provides customizable risk analyses for various roles (e.g., Investment Officers, Risk Managers).
+Designs and produces stress tests (historical and hypothetical).
+Supports portfolio construction, asset allocation, and risk budgeting analysis.
+Offers risk-related education, training, and access to subject matter experts.
+
+Parameter To Be Calculated
+
+(STATISTICAL MEASURES: Calculate Beta (β) using covariance and variance between asset returns and market returns, Determine Jensen's Alpha (α) accounting for risk-free rates, Compute advanced Value at Risk (VaR) metrics including parametric VaR and Conditional VaR (Expected Shortfall), Calculate Information Ratio and Sortino Ratio for risk-adjusted performance.
+
+VOLATILITY MODELS: Implement GARCH model for volatility forecasting, Apply Kalman Filter for time-varying beta estimation, Calculate Z-scores for pair trading opportunities, Model implied volatility surfaces across strike prices and expiration dates.
+
+OPTIONS PRICING: Implement Black-Scholes model for option pricing, Calculate all option Greeks (Delta, Gamma, Theta, Vega, Rho), Price exotic options including barriers and Asian options, Model volatility smiles and skews using SABR model.
+
+PORTFOLIO OPTIMIZATION: Implement Markowitz Modern Portfolio Theory optimization, Calculate efficient frontiers with and without constraints, Apply Black-Litterman model for portfolio construction, Implement Risk Parity portfolio weighting methodology.
+
+ORDER EXECUTION ALGORITHMS: Design VWAP execution strategies with participation rate targets, Calculate Implementation Shortfall metrics, Apply Almgren-Chriss optimal execution model, Implement Adaptive Market Scheduling with price-aware adjustments.
+
+ADVANCED RISK MANAGEMENT: Apply Extreme Value Theory for tail risk estimation, Implement Copula models (Gaussian and t-Copula) for dependency modeling, Calculate component Expected Shortfall contributions, Model systemic risk using network theory.
+
+ALGORITHMIC TRADING STRATEGIES: Implement statistical arbitrage models with cointegration testing, Apply Hidden Markov Models for regime detection, Design Kalman Filter models for pairs trading, Create mean-reversion scoring systems.
+
+MARKET MICROSTRUCTURE: Model market impact (temporary and permanent), Analyze limit order book dynamics, Calculate order flow toxicity metrics like VPIN, Estimate effective spreads and implementation shortfall.
+
+MACHINE LEARNING APPROACHES: Train LSTM networks for time series prediction, Implement Reinforcement Learning for trading policy optimization, Apply Transformers for sequential market data analysis, Use GANs for synthetic market data generation.
+
+Regulatory and Legal Factors: Government regulations and policy changes, Securities classification decisions, Tax law developments, Central bank digital currency (CBDC) developments, AML/KYC requirement changes, Country-specific bans or endorsements, Legal precedents from court cases, Regulatory arbitrage between jurisdictions. 
+
+Macroeconomic Factors: Inflation rates and expectations, Interest rate changes by central banks, Monetary policy decisions, Economic growth indicators (GDP), Currency devaluation events, Sovereign debt issues, Recession indicators, Global liquidity conditions, Dollar strength/weakness, Financial market volatility. 
+
+Technological Developments: Protocol upgrades and hard forks, Scalability solutions, Layer 2 implementations, Interoperability advancements, Security improvements, New consensus mechanisms, Smart contract innovations, Zero-knowledge proof implementations, Technical vulnerabilities discovered, Development activity and GitHub commits.
+
+Market Structure Factors: Exchange listings and delistings, Liquidity pools and market depth, Derivatives market development, Futures and options volume, Market making activity, Stablecoin issuance and reserves, Trading pair availability, Order book imbalances, Institutional trading desk expansion, Fee structures and changes.
+
+Adoption Metrics: Institutional investment announcements, Corporate treasury additions, Venture capital funding rounds, Merchant acceptance growth, Banking partnerships, Payment processor integration, Cross-border payment usage, DeFi total value locked (TVL), NFT market activity, Gaming and metaverse integration.
+
+Supply and Demand Dynamics: Mining reward halvings, Token burning events, Staking participation rates, Circulating supply changes, Token unlocks and vesting periods, Founder/team token sales, VC token distributions, Tokenomics changes, Mining difficulty adjustments, Inflation/deflation rate changes.
+
+Security and Trust Factors: Exchange hacks and security breaches, Smart contract exploits, 51% attack threats, Phishing campaigns, Rug pulls and exit scams, Auditor assessments, Insurance coverage, Cold storage implementation, Multi-signature adoption, Bug bounty discoveries.
+
+Social and Sentiment Indicators: Social media activity and sentiment, Search volume trends, Influencer positions, Reddit/Discord community growth, Fear and Greed Index readings, Long/short ratio on exchanges, Funding rates for perpetual futures, Options put/call ratio, Retail investor participation, HODL waves and on-chain analysis.
+
+On-Chain Metrics: Hash rate fluctuations, Active addresses, Transaction volume, Network fees, Miner revenue, Coin age consumed, Whale wallet movements, Exchange inflows/outflows, Realized value metrics, UTXO age distribution.
+
+Competitive Landscape: New token launches, Market share shifts between coins, "Ethereum killer" developments, Fork dynamics, Category leadership changes, Protocol convergence/divergence, Community splits.
+
+Global Events: Geopolitical crises, Financial system instability, Banking system failures, Political power shifts, Trade wars, Pandemic developments, Natural disasters, Energy availability and costs, Internet outages or restrictions, Censorship events.
+
+Industry Developments: Major conferences and announcements, Industry consolidation (mergers/acquisitions), Exchange IPOs or funding rounds, Mining company financials, Crypto fund performance, Industry leadership changes, Technical talent migration, Industry standards development, Academic research breakthroughs, Infrastructure development.
+
+Media and Narrative Shifts: Mainstream media coverage, Narrative evolution (store of value, inflation hedge, etc.), Educational content availability, Documentaries and books, Celebrity endorsements, Meme trends, FUD (Fear, Uncertainty, Doubt) campaigns, FOMO (Fear of Missing Out) cycles, Success/failure stories, Public perception shifts.)
+
+Comprehensive Crypto Market Analysis Framework
+(Risk Factors
+Market Risk Factors:volatility spikes,Liquidity crunches,Flash crashes,Cascading liquidations,Market correlation breakdowns,Exchange outages during ,high volume,Futures market backwardation/contango extremes,Order book imbalances,Funding rate extremes,Basis trading risks,Delta/gamma squeezes,Whale manipulation,Wash trading distortions,Market depth deterioration,Front-running attacks,Sandwich attacks
+
+Technical Risk Factors:Network congestion,High gas fees/transaction costs,Chain reorganizations,hard fork controversies,Consensus failures,Oracle failures,Bridge vulnerabilities,MEV exploitation,Smart contract bugs,Auditing oversights,API failures,Cross-chain compatibility issues,Governance attack vectors,Staking/unstaking limitations,Centralization risks in node distribution,Validator concentration risks.
+
+Regulatory Risk Factors:Sudden regulatory crackdowns,Security classification determinations,Exchange delisting requirements,Travel rule implementation,Privacy coin restrictions,Stablecoin reserve requirements,Tax reporting changes,KYC/AML enforcement actions,Custody rule changes,EC/CFTC enforcement actions,Treasury sanctions on addresses,FATF compliance requirements,Cross-border transaction restrictions,Licensing revocations.
+
+Calculation Metrics-
+Volatility Metrics: Historical Volatility (HV), Implied Volatility (IV), Volatility Index (VIX equivalent), Standard deviation of returns, Average True Range (ATR), Bollinger Band Width, Keltner Channel Width, Volatility smile/skew analysis, Volatility surface modeling, Realized volatility vs. implied volatility spread.
+
+On-Chain Metrics Calculations: NVT Ratio (Network Value to Transactions), MVRV Ratio (Market Value to Realized Value), Stock-to-Flow Ratio, Thermocap Multiple, SOPR (Spent Output Profit Ratio), RHODL Ratio (Realized HODL Ratio), Coin Days Destroyed (CDD), UTXO Age Distribution, Hash Ribbons, Difficulty Ribbon, Puell Multiple, Reserve Risk, Dormancy Flow, Realized Cap HODL Waves, Entity-Adjusted UTXO Age. 
+
+Sentiment and Derivatives Calculations: Funding Rate Average, Open Interest Analysis, Liquidation Levels Aggregation, Long/Short Ratio, Perpetual Swap Premium/Discount, Options Put/Call Ratio, IV Percentile, Options Skew Measurement, Fear & Greed Index, Social Volume vs. Price Divergence, Weighted Social Sentiment, Funding Rate to Volatility Ratio, Futures Basis Annualized, Options Implied Probability Distribution, Gamma Exposure (GEX).
+
+Trading Signals-
+Technical Analysis Signals: Moving Average Crossovers (various periods), MACD Divergence, RSI Overbought/Oversold, Stochastic Oscillator Signals, Ichimoku Cloud Breakouts, ADX Trend Strength, Parabolic SAR Reversals, TD Sequential Counts, Volume Profile Breakouts, Market Cipher Signals, Heikin-Ashi Candle Patterns, Supertrend Signal Changes, Pivot Point Bounces, Fibonacci Retracement Completion, Volume-Weighted Average Price (VWAP) Crosses.
+
+Flow and Sentiment Signals: Exchange Inflow/Outflow Spikes, Whale Transaction Alerts, Funding Rate Extremes, Options Skew Shifts, Open Interest Surges, Liquidation Cascades, Social Volume Spikes, Sentiment Score Extremes, Futures Basis Distortion, Stablecoin Supply Velocity Changes, Exchange Reserve Changes, Derivative/Spot Volume Ratio Extremes, Miner to Exchange Flow Changes, Institutional Fund Flow Shifts, Grayscale Premium/Discount Extremes.
+
+On-Chain Signals: UTXO Age Shifts, Large HODLer Position Changes, Realized Profit/Loss Metrics, Supply on Exchanges Decreasing, Miner Revenue Model Shifts, Staking Rate Changes, Supply Distribution Shifts, Active Address Breakouts, Transaction Value Breakouts, Fee Model Changes, MVRV Z-Score Extremes, Realized Cap Shifts, Thermocap Multiple Extremes, Network Hash Rate Changes, Coin Days Destroyed Spikes.
+
+
+Important Ratios-
+Valuation Ratios: Market Cap to Realized Cap Ratio, Price to Earnings Ratio (for proof-of-stake), Transaction Value to Market Cap Ratio, NVT Ratio (Network Value to Transactions), Market Cap to ThermoCap Ratio, Price to Hash Rate Ratio, TVL to Market Cap Ratio (for DeFi), Revenue to Market Cap Ratio, Fee Revenue to Network Value Ratio, Mining Revenue to Network Value Ratio, Staking Rewards to Market Cap Ratio, Developer Activity to Market Cap Ratio.
+
+Risk Assessment Ratios: Sharpe Ratio, Sortino Ratio, Calmar Ratio, Treynor Ratio, Information Ratio, Sterling Ratio, Burke Ratio, Omega Ratio, Kappa Ratio, Upside Potential Ratio, Pain Ratio, Martin Ratio, Ulcer Performance Index, Volatility to Volume Ratio, Beta to Rest of Crypto Market.
+
+Market Structure Ratios: Bid-Ask Spread Percentage, Volume to Market Cap Ratio, Open Interest to Market Cap Ratio, Futures Volume to Spot Volume Ratio, Perpetual Funding to Volatility Ratio, Options Gamma to Spot Volume Ratio, Stablecoin Supply to Market Cap Ratio, Institutional Holdings Percentage, Exchange Concentration Ratio, Liquidity Depth Ratio, Market Impact Cost Ratio, Foreign Exchange Volume Ratio, Correlation to Bitcoin/Ethereum
+
+
+Chart Patterns - 
+Classical Patterns: Head and Shoulders, Inverse Head and Shoulders, Double Top/Bottom, Triple Top/Bottom, Cup and Handle, Inverse Cup and Handle, Ascending/Descending Triangles, Symmetrical Triangles, Rising/Falling Wedges, Pennants and Flags, Rectangle Consolidations, Rounding Bottom/Top, Diamond Patterns, Island Reversals, V-Bottoms/Tops
+
+Candlestick Patterns: Doji, Hammer/Hanging Man, Shooting Star/Inverted Hammer, Engulfing Patterns, Harami Patterns, Morning/Evening Stars, Three White Soldiers/Black Crows, Dark Cloud Cover, Piercing Line, Three Inside Up/Down, Tweezer Tops/Bottoms, Kicker Patterns, Abandoned Baby, Belt Hold Lines, Counterattack Lines
+
+Harmonic Patterns: Gartley Pattern, Butterfly Pattern, Bat Pattern, Crab Pattern, Shark Pattern, Cypher Pattern, 5-0 Pattern, Three-Drive Pattern, ABCD Pattern, 1-2-3 Pattern, 121 Pattern, AB=CD Pattern, Deep Crab Pattern, Alt Bat Pattern, White Swan Pattern
+Elliott Wave Patterns: Five-Wave Impulse, Three-Wave Correction, Diagonal Triangles, Leading Diagonals, Ending Diagonals, Extensions, Truncations, Wave Relationships (Fibonacci), Three-Wave Flat Corrections, Three-Wave Zigzag Corrections, Three-Wave Triangle Corrections, Complex Corrections, Double Threes, Triple Threes, Combination Patterns
+
+Market Cycle Patterns: Wyckoff Accumulation, Wyckoff Distribution, Smart Money Cycles, Liquidity Engineering, Order Block Formation, Fair Value Gaps, Inefficient Price Action, Market Structure Shifts, Liquidity Sweeps, Stop Hunts, Consolidation-Breakout Sequences, Volume Climax Patterns, Saucer Bottom/Top Formations, Blow-Off Tops, Capitulation Bottoms). JUST SAY I UNDERSTAND SO THAT IS CAN ASK YOU QUESTIONS ABOUT IT.
